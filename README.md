@@ -5,7 +5,6 @@ I’m @PercyAres u may call me Percy Jackson
 
 👀 I’m interested in Coding
 - 🌱 I’m currently 
-<html>
 <button>[![LEARNING PYTHON](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)](https://www.python.org/)<button>
 <!---
 PercyAres/PercyAres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
