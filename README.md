@@ -16,7 +16,7 @@
 <p>Haven't used any languages lmao sed RIP 😂💔</p>
 <p>But i do wanna start a project after i finish learning python and java🤩🤩</p>
 
-**Something about the project 😁😁😁 wanna successfully make a telegram userbot😗😗**
+**Something about the project 😁😁😁 wanna successfully make a telegram userbot without kanging😗😗**
 
 <!---
 PercyAres/PercyAres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
