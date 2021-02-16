@@ -6,7 +6,7 @@ I’m @PercyAres u may call me Percy Jackson
 👀 I’m interested in Coding
 - 🌱 I’m currently Learning :- Python, Html and Java 
 
-[![LERNING PYTHON](https://www.python.org/static/community_logos/python-logo-inkscape.svg)](https://www.python.org)[![HTML](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png)](https://html.com/)
+[![LERNING PYTHON](https://www.python.org/static/community_logos/python-logo-inkscape.svg)](https://www.python.org)[![HTML](https://www.w3.org/html/logo/img/mark-only-icon.png)](https://html.com/)
 
 
 <!---
