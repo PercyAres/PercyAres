@@ -1,4 +1,4 @@
--<h1>Hi there! <span class="wave">👋</span></h1> Yo hello 
+-<h2>Yo Hello! <span class="wave">👋</span></h2>
 
 I’m @PercyAres u may call me Percy Jackson
 - 
