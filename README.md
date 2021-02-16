@@ -13,8 +13,8 @@
 ## LANGUAGES USED BY ME
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PercyAres&layout=compact&theme=radical&show_icons=true" alt="Languages Used by Percy Jackson" />
 
-Haven't used any languages lmao sed RIP 😂💔
-But i do wanna start a project after i finish learning python and java🤩🤩
+<p>Haven't used any languages lmao sed RIP 😂💔</p>
+<p>But i do wanna start a project after i finish learning python and java🤩🤩</p>
 **Something about the project 😁😁😁 wanna successfully make a telegram userbot😗😗**
 
 <!---
