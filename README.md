@@ -18,6 +18,8 @@
 
 **Something about the project 😁😁😁 wanna successfully make a telegram userbot without kanging😗😗**
 
+![Telegram Badge](https://img.shields.io/badge/-DeprecatedUser-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/DeprecatedUser)
+
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
 <!---
