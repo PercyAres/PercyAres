@@ -4,7 +4,7 @@
 <h1>I’m @PercyAres u may call me Percy Jackson</h1>
 
 <h2>👀 I’m interested in Coding</h2>
-<h3>🌱 I’m currently Learning :- Python, Html and Java and logo making</h3>
+- <h3>🌱 I’m currently Learning :- Python, Html and Java and logo making</h3>
 
 ## <h2>Some tools and languages that i use are:-
 
