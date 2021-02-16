@@ -18,6 +18,10 @@
 
 **Something about the project 😁😁😁 wanna successfully make a telegram userbot without kanging😗😗**
 
+
+[![Spotify](https://img.shields.io/badge/-Spotify-%232c3e50?style=flat-square&logo=spotify)](https://spotify.com)
+[![PhotoShop](https://img.shields.io/badge/-PhotoShop-%23007ACC?style=plastic-round&logo=Adobe)](https://www.adobe.com/products/photoshop.html)
+
 <!---
 PercyAres/PercyAres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
