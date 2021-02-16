@@ -6,7 +6,7 @@ I’m @PercyAres u may call me Percy Jackson
 👀 I’m interested in Coding
 - 🌱 I’m currently Learning :- Python, Html and Java 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="python" width="60" height="60"/> </a> <a href="https://html.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="python" width="60" height="60"/> </a> <a href="https://html.com/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="python" width="60" height="60"/> </a> <a href="https://html.com/" target="_blank">
 
 
 <!---
