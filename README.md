@@ -13,10 +13,9 @@ I’m @PercyAres u may call me Percy Jackson
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML</title>
    </head>
    <body>
-      The following image works as a link:<br>
+     <br>
       <a href="https://html.com/">
          <img alt="Qries" src="https://www.freeiconspng.com/uploads/w3c-html5-logo-0.png"
          width=100" height="100">
