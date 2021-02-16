@@ -10,6 +10,9 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PercyAres&show_icons=true&theme=midnight-purple" alt="Percy Jackson" /></p>
+
+## 🌐 **Top Languages**
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PercyAres&show_icons=true&theme=radical&layout=compact)](https://github.com/PercyAres)
 <!---
 PercyAres/PercyAres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
