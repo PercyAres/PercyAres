@@ -6,7 +6,7 @@
 <h2>👀 I’m interested in Coding</h2>
 <h3>🌱 I’m currently Learning :- Python, Html and Java and logo making</h3>
 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="100" height="100"/> </a> <a href="https://html.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html-5" width="100" height="100"/> </a> <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="100" height="100"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a> <a href="https://html.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html-5" width="100" height="100"/> </a> <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="100" height="100"/> </a> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PercyAres&show_icons=true&theme=midnight-purple" alt="Percy Jackson" /></p>
 
