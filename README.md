@@ -17,7 +17,7 @@ I’m @PercyAres u may call me Percy Jackson
    <body>
      <br>
       <a href="https://html.com/">
-         <img alt="Qries" src="https://www.freeiconspng.com/uploads/w3c-html5-logo-0.png"
+         <img alt="HTML" src="https://www.freeiconspng.com/uploads/w3c-html5-logo-0.png"
          width=100" height="100">
       </a>
    </body>
