@@ -1,4 +1,4 @@
-<h1>Hi there! <span class="wave animated">👋</span></h1>
+<h1>Hi there! <span class="wave">👋</span></h1>
 
 I’m @PercyAres u may call me Percy Jackson
 - 
