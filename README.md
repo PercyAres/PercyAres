@@ -19,8 +19,6 @@
 **Something about the project 😁😁😁 wanna successfully make a telegram userbot without kanging😗😗**
 
 
-<iframe src="http://song-of-github.herokuapp.com/?username=PercyAres&embeddable" height="240" width="600"></iframe>
-
 <!---
 PercyAres/PercyAres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
