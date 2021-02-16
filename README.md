@@ -13,6 +13,20 @@ I’m @PercyAres u may call me Percy Jackson
 
 </a>
 
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML</title>
+   </head>
+   <body>
+      The following image works as a link:<br>
+      <a href="https://www.qries.com/">
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         width=150" height="70">
+      </a>
+   </body>
+</html>
+
 <!---
 PercyAres/PercyAres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
