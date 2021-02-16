@@ -9,7 +9,7 @@ I’m @PercyAres u may call me Percy Jackson
 [![LERNING PYTHON](https://www.python.org/static/community_logos/python-logo-inkscape.svg)](https://www.python.org)
 <a href="https://html.com/">
 
-<img src= "https://www.freeiconspng.com/uploads/w3c-html5-logo-0.png" width="100" height="120" alt="(https://html.com/)] alt="HTML")>
+<img src= "" width="100" height="120" alt="()] alt="HTML")>
 
 </a>
 
@@ -20,9 +20,9 @@ I’m @PercyAres u may call me Percy Jackson
    </head>
    <body>
       The following image works as a link:<br>
-      <a href="https://www.qries.com/">
-         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
-         width=150" height="70">
+      <a href="https://html.com/">
+         <img alt="Qries" src="https://www.freeiconspng.com/uploads/w3c-html5-logo-0.png"
+         width=100" height="100">
       </a>
    </body>
 </html>
