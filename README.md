@@ -18,7 +18,7 @@
 
 **Something about the project 😁😁😁 wanna successfully make a telegram userbot without kanging😗😗**
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://www.last.fm/user/percy__jackson7)
+![Spotify](https://novatorem.vercel.app/api/spotify)
 
 <!---
 PercyAres/PercyAres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
