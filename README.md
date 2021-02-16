@@ -1,4 +1,4 @@
-<h1>ℍ𝕀  𝕋ℍ𝔼ℝ𝔼! <span class="wave">👋</span></h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=PercyAres&label=Profile%20views&color=0e75b6&style=flat" alt="Percy Jackson" /> </p>
+<h1>ℍ𝕀  𝕋ℍ𝔼ℝ𝔼! <span class="wave">👋</span></h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=PercyAres&label=Profile%20views&color=0e75b6&style=plastic" alt="Percy Jackson" /> </p>
 
 <h1>I’m @PercyAres u may call me Percy Jackson</h1>
 
