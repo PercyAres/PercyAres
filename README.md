@@ -18,7 +18,11 @@
 
 **Something about the project 😁😁😁 wanna successfully make a telegram userbot without kanging😗😗**
 
-![Telegram Badge](https://img.shields.io/badge/-PercyJackson-1ca0f1?style=plastic-round&logo=telegram&logoColor=black&link=https://t.me/PercyJackson_OP)
+## <h1>🙂How to contact me 👇🏻</h1>
+
+- ![Telegram Badge](https://img.shields.io/badge/-PercyJackson-1ca0f1?style=plastic-round&logo=telegram&logoColor=black&link=https://t.me/PercyJackson_OP)
+
+## <h1> Now just stay calm and listen to these owsm songs. __YO!!!__ 🤘🏻🤘🏻
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
