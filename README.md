@@ -10,7 +10,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=PercyAres&show_icons=true&theme=midnight-purple" alt="Percy Jackson" /></p>
 
-##LANGUAGES USED BY ME
+## LANGUAGES USED BY ME
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PercyAres&layout=compact&theme=radical&show_icons=true" alt="Languages Used by Percy Jackson" /></p>
 
 <!---
