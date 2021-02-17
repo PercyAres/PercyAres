@@ -22,7 +22,7 @@
 
 ## <h1>🙂How to contact me 👇🏻</h1>
 
-- [![Telegram Badge](https://img.shields.io/badge/-PercyJackson-1ca0f1?style=plastic-round&logo=telegram&logoColor=black](https://t.me/PercyJackson_OP)
+- <a href="https://t.me/PercyJackson_OP" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
 
 ## <h1> Now just stay calm and listen to these owsm songs. __YO!!!__ 🤘🏻🤘🏻
 
