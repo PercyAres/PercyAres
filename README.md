@@ -3,6 +3,8 @@
 
 <h1>I’m @PercyAres u may call me Percy Jackson</h1>
 
+<img src=https://raw.githubusercontent.com/microsoft/vscode-python/main/images/OpenOrCreateNotebook.gif width=1029 height=602>
+
 ## <h2>👀 I’m interested in Coding</h2>
 - <h3>🌱 I’m currently Learning :- Python, Html and Java and logo making</h3>
 
