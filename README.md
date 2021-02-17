@@ -8,7 +8,7 @@
 
 ## <h2>Some tools and languages that i use are:-
 
-[button]who
+
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a> <a href="https://html.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html-5" width="100" height="100"/> </a> <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="100" height="100"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" width="100" height="100"/> </a> <a href="https://heroku.com/" target="_blank"> <a href="https://heroku.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="heroku" width="100" height="100"/> </a> <a href="https://heroku.com/" target="_blank">
 
