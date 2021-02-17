@@ -22,7 +22,7 @@
 
 ## <h1>🙂How to contact me 👇🏻</h1>
 
-- <a href="https://t.me/PercyJackson_OP" target="_blank"> <img src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" alt="python" width="60" height="60"/> </a>
+- <a href="https://t.me/PercyJackson_OP" target="_blank"> <img src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" alt="python" width="80" height="60"/> </a>
 
 ## <h1> Now just stay calm and listen to these owsm songs. __YO!!!__ 🤘🏻🤘🏻
 
