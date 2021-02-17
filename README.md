@@ -24,10 +24,6 @@
 
  <a href="https://t.me/PercyJackson_OP" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" alt="python" width="100" height="100"/> </a>
 
-## <h1> Now just stay calm and listen to these owsm songs. __YO!!!__ 🤘🏻🤘🏻
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
-
 <!---
 PercyAres/PercyAres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
