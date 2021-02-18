@@ -1,7 +1,7 @@
 <h1>ℍ𝕀  𝕋ℍ𝔼ℝ𝔼! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>        
 <p align="center"><img src="https://komarev.com/ghpvc/?username=PercyAres&label=PROFILE+VIEWS+OF+PERCY+JACKSON&color=0e75b6&style=plastic" alt="Percy Jackson"> </p>  
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gjbae1212/hit-counter%2Fgjbae1212%2Fhit-counter&count_bg=%23B6432F&title_bg=%231C1919&icon=&icon_color=%23B11414&title=&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gjbae1212/hit-counter%2Fgjbae1212%2Fhit-counter&count_bg=%23B6432F&title_bg=%231C1919&icon=&icon_color=%23B11414&title=&edge_flat=false"/></a>
 
 <h1>I’m @PercyAres u may call me Percy Jackson</h1>
 
