@@ -15,7 +15,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PercyAres&show_icons=true&theme=midnight-purple" alt="Percy Jackson" /></p>
 
 ## LANGUAGES USED BY ME
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PercyAres&layout=compact&theme=radical&show_icons=true" alt="Languages Used by Percy Jackson" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PercyAres&layout=compact&theme=midnight-purple)](https://github.com/PercyAres)
 
 <p>Haven't used any languages lmao sed RIP 😂💔</p>
 <p>But i do wanna start a project after i finish learning python and java🤩🤩</p>
@@ -25,6 +25,7 @@
 ## <h1>🙂How to contact me 👇🏻</h1>
 
  <a href="https://t.me/PercyJackson_OP" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" alt="python" width="100" height="100"/> </a> 
+
 
 <!---
 PercyAres/PercyAres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
