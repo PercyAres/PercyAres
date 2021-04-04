@@ -19,8 +19,6 @@
 
 <p>I wanna start a project after i finish learning python and java🤩🤩</p>
 
-**Something about the project 😁😁😁 wanna successfully make a telegram userbot without kanging😗😗**
-
 ## <h1>🙂How to contact me 👇🏻</h1>
 
  <a href="https://t.me/PercyJackson_OP" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" alt="python" width="100" height="100"/> </a> 
