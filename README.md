@@ -17,8 +17,7 @@
 ## LANGUAGES USED BY ME
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PercyAres&layout=compact&theme=midnight-purple)](https://github.com/PercyAres)
 
-<p>Haven't used any languages lmao sed RIP 😂💔</p>
-<p>But i do wanna start a project after i finish learning python and java🤩🤩</p>
+<p>I wanna start a project after i finish learning python and java🤩🤩</p>
 
 **Something about the project 😁😁😁 wanna successfully make a telegram userbot without kanging😗😗**
 
